@@ -1,0 +1,6 @@
+[submodule "Front-End-LibraryOfBooks"]
+	path = Front-End-LibraryOfBooks
+	url = https://github.com/JeffersMV/Front-End-LibraryOfBooks.git
+[submodule "Back-End-LibraryOfBooks"]
+	path = Back-End-LibraryOfBooks
+	url = https://github.com/JeffersMV/Back-End-LibraryOfBooks
